@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Syakeer Bin Abdul Rahman</h1>
-<h3 align="center">Seeking a Junior Data Analyst/Scientist position with a career opportunity that will offer a rewarding work environment with a winning team that will utilize management skills. Resourceful, and committed to continually advancing my knowledge of relevant technologies. Have knowledge and practical in Excel, SQL, Python, Big Data, Power BI</h3>
+<h3 align="center">CUrrent working as Data Engineer in Fintech Industry based in Malaysia. Resourceful, and committed to continually advancing my knowledge of relevant technologies. Have knowledge and practical in Excel, SQL, Python, Big Data, Power BI</h3>
 <img align="center" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syakeerrahman&label=Profile%20views&color=0e75b6&style=flat" alt="syakeerrahman" /> </p>

@@ -36,6 +36,80 @@ fun_fact: "Proved that passion beats pedigree in tech"
 
 ---
 
+<!-- EXPERIENCE -->
+## 💼 Experience
+
+<table width="100%">
+<tr>
+<td width="18%" valign="top" align="right"><sub><b>Feb 2026 – Present</b></sub></td>
+<td width="82%">
+<b>Senior Data Architect & Engineer</b> · CTOS · Petaling Jaya<br/>
+<sub>AWS · PySpark · Airflow · Grafana · Power BI · RAG (LlamaIndex + Qdrant + Ollama)</sub><br/>
+<sub>• ETL/ELT pipelines processing millions of records daily &nbsp;• Engineered 20+ Airflow DAGs &nbsp;• Deployed production RAG system for semantic search over internal documents</sub>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td valign="top" align="right"><sub><b>Jan 2025 – Feb 2026</b></sub></td>
+<td>
+<b>Senior Data Engineer</b> · Soft Space · Kuala Lumpur<br/>
+<sub>AWS (S3, Glue, Redshift, Lambda, Athena) · Airflow · Docker · Metabase</sub><br/>
+<sub>• Reduced data processing time by 40% &nbsp;• 99.9% pipeline uptime across 10+ source systems &nbsp;• 30% reduction in analytics delivery time</sub>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td valign="top" align="right"><sub><b>Feb 2023 – Jan 2025</b></sub></td>
+<td>
+<b>Data Engineer</b> · Soft Space · Kuala Lumpur<br/>
+<sub>SQL · SSIS · Power BI · Python · Microsoft Azure</sub><br/>
+<sub>• Reduced manual workload by 25% &nbsp;• 99.8% pipeline uptime across 5 data sources &nbsp;• Documented 30+ data assets</sub>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td valign="top" align="right"><sub><b>Feb 2020 – Jan 2023</b></sub></td>
+<td>
+<b>Data Analyst</b> · Accenture · Kuala Lumpur<br/>
+<sub>IBM Certified · Data Analysis · Reporting · Team Leadership</sub><br/>
+<sub>• Led team of 8 &nbsp;• Maintained quality above 95% &nbsp;• Reduced errors by ~100% within 3 months</sub>
+</td>
+</tr>
+</table>
+
+---
+
+<!-- EDUCATION & CERTIFICATIONS -->
+## 🎓 Education & Certifications
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🏛️ Education**
+
+**Universiti Kebangsaan Malaysia**
+Bachelor of Economics *(Managerial Economics)* · 2016 – 2021
+
+**The Malay College Kuala Kangsar (MCKK)**
+Business/Managerial Economics · 2009 – 2013
+
+</td>
+<td width="50%" valign="top">
+
+**📜 Certifications**
+
+![Azure](https://img.shields.io/badge/Azure_DP--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) Microsoft Azure Data Fundamentals
+![AWS](https://img.shields.io/badge/AWS_Data_Engineer-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) AWS Certified Data Engineer Associate
+![IBM](https://img.shields.io/badge/IBM_Data_Science-052FAD?style=flat-square&logo=ibm&logoColor=white) IBM Data Science Professional
+![PwC](https://img.shields.io/badge/PwC_Power_BI-D04A02?style=flat-square&logo=powerbi&logoColor=white) PwC Power BI Virtual Experience
+
+</td>
+</tr>
+</table>
+
+---
+
 <!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
@@ -61,15 +135,15 @@ fun_fact: "Proved that passion beats pedigree in tech"
 
 <div align="center">
 
-<a href="https://github.com/SyakeerRahman/Data_Engineering_Open_Source_Data_Warehouse_Airflow_dbt__Postgres_WeatherStack_API">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SyakeerRahman&repo=Data_Engineering_Open_Source_Data_Warehouse_Airflow_dbt__Postgres_WeatherStack_API&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+<a href="https://github.com/SyakeerRahman/Data_Engineering_Open_Source_Data_Platform_Airflow_dbt_Trino_Ollama_AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SyakeerRahman&repo=Data_Engineering_Open_Source_Data_Platform_Airflow_dbt_Trino_Ollama_AI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
 </a>
 
 </div>
 
-### ☁️ Open-Source Weather Data Warehouse
+### ☁️ Open-Source AI-Powered Data Platform
 
-> End-to-end data pipeline that ingests weather data from the WeatherStack API, loads it into PostgreSQL, and transforms it using dbt — fully orchestrated with Apache Airflow and containerized with Docker Compose.
+> Production-grade AWS data lake with an integrated AI layer — designed for small data engineering teams handling ~1TB of data across 500 source tables, under $500/month.
 
 <table>
 <tr>
@@ -78,21 +152,28 @@ fun_fact: "Proved that passion beats pedigree in tech"
 **🔧 Architecture**
 
 ```
-WeatherStack API
+Airbyte / AWS DMS
       │
       ▼
-  Airflow DAG
+  AWS S3 + Glue Catalog
       │
       ▼
-  PostgreSQL (raw)
+  Airflow Orchestration
       │
       ▼
-  dbt Transform
-   ┌──┴──┐
-   ▼     ▼
-Staging  Marts
-         ├── daily_average
-         └── weather_report
+  dbt Core (500+ models)
+      │
+   ┌──┴──────┐
+   ▼         ▼
+ Trino     Athena
+           (fallback)
+      │
+      ▼
+  AI Layer (Ollama + Qdrant)
+  ├── Text-to-SQL
+  ├── RAG
+  ├── Anomaly Detection
+  └── LLM Assistant
 ```
 
 </td>
@@ -102,15 +183,15 @@ Staging  Marts
 
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 **📌 Highlights**
-- Fully Dockerized (3 containers)
-- Automated mock-data fallback
-- Staging → Mart layered modeling
-- Reproducible with one command
+- 500+ dbt models with layered modeling
+- AI layer: Text-to-SQL, RAG, anomaly detection
+- Slack alerting for pipeline anomalies
+- Under $500/month for ~1TB data
 
 </td>
 </tr>
@@ -118,7 +199,7 @@ Staging  Marts
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/🔗_View_Full_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyakeerRahman/Data_Engineering_Open_Source_Data_Warehouse_Airflow_dbt__Postgres_WeatherStack_API)
+[![View Project](https://img.shields.io/badge/🔗_View_Full_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyakeerRahman/Data_Engineering_Open_Source_Data_Platform_Airflow_dbt_Trino_Ollama_AI)
 
 </div>
 
@@ -129,8 +210,10 @@ Staging  Marts
 
 | Project | Description | Tech Stack | Link |
 |:--------|:-----------|:-----------|:----:|
+| **AI-Powered Data Platform** | Production-grade AWS data lake with AI layer — Text-to-SQL, RAG, anomaly detection, ~1TB / <$500/month | `Airflow` `dbt` `Trino` `AWS` `Ollama` `Qdrant` `Terraform` | [![Repo](https://img.shields.io/badge/-Repo-0d1117?style=flat-square&logo=github)](https://github.com/SyakeerRahman/Data_Engineering_Open_Source_Data_Platform_Airflow_dbt_Trino_Ollama_AI) |
+| **Realtime Fraud Detection** | Real-time ML pipeline for financial fraud detection with streaming inference and model versioning | `Kafka` `PySpark` `MLflow` `MinIO` `Airflow` `PostgreSQL` `Docker` | [![Repo](https://img.shields.io/badge/-Repo-0d1117?style=flat-square&logo=github)](https://github.com/SyakeerRahman/Data_Engineering_Realtime_Fraud_Detection_AI_Kafka_MLflow_Spark_Minio) |
+| **AWS Full-Stack Sales Pipeline** | End-to-end sales data pipeline on AWS using medallion architecture (Bronze → Silver → Gold) | `AWS Glue` `EMR` `Redshift` `Hudi` `Athena` `Managed Airflow` `S3` | [![Repo](https://img.shields.io/badge/-Repo-0d1117?style=flat-square&logo=github)](https://github.com/SyakeerRahman/AWS_Data-Engineering-Full-Stack-Sales-Data-Hudi-Glue-EMR-ManageAirflow) |
 | **Weather Data Warehouse** | End-to-end pipeline: API → PostgreSQL → dbt with Airflow orchestration | `Airflow` `dbt` `PostgreSQL` `Docker` `Python` | [![Repo](https://img.shields.io/badge/-Repo-0d1117?style=flat-square&logo=github)](https://github.com/SyakeerRahman/Data_Engineering_Open_Source_Data_Warehouse_Airflow_dbt__Postgres_WeatherStack_API) |
-| **🔜 Coming Soon** | _More data engineering projects in progress..._ | — | — |
 
 > 💡 *Star a repo if you find it useful — it helps others discover it too!*
 
@@ -151,17 +234,6 @@ Staging  Marts
 <!-- TROPHY -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=syakeerrahman&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="700"/>
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syakeerrahman&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ---

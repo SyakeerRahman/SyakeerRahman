@@ -219,6 +219,20 @@ Airbyte / AWS DMS
 
 ---
 
+<!-- MASTERY -->
+## 🧪 Mastery
+
+> Focused deep-dive repos where I drill into a single tool until it's second nature.
+
+| Repo | Focus | Link |
+|:-----|:------|:----:|
+| ![Iceberg](https://img.shields.io/badge/Iceberg-1A8FE3?style=flat-square&logo=apacheiceberg&logoColor=white) **Iceberg Mastery** | Apache Iceberg — table format, partitioning, time travel, schema evolution | [![Repo](https://img.shields.io/badge/-Repo-0d1117?style=flat-square&logo=github)](https://github.com/SyakeerRahman/iceberg-mastery) |
+| ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) **dbt Mastery** | dbt internals — models, tests, macros, packages, production patterns | [![Repo](https://img.shields.io/badge/-Repo-0d1117?style=flat-square&logo=github)](https://github.com/SyakeerRahman/dbt-mastery) |
+| ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) **Airflow Mastery** | Airflow — DAGs, operators, sensors, executors, orchestration patterns | [![Repo](https://img.shields.io/badge/-Repo-0d1117?style=flat-square&logo=github)](https://github.com/SyakeerRahman/airflow-mastery) |
+| ![Git](https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white) **Git & GitHub Mastery** | Git internals, branching strategies, GitHub workflows & collaboration | [![Repo](https://img.shields.io/badge/-Repo-0d1117?style=flat-square&logo=github)](https://github.com/SyakeerRahman/git-github-mastery) |
+
+---
+
 <!-- GITHUB STATS -->
 ## 📊 GitHub Analytics
 

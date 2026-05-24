@@ -79,34 +79,42 @@ fun_fact: "Proved that passion beats pedigree in tech"
 
 ---
 
-<!-- EDUCATION & CERTIFICATIONS -->
-## 🎓 Education & Certifications
+<!-- EDUCATION -->
+## 🎓 Education
 
-<table width="100%">
+**Universiti Kebangsaan Malaysia** — Bachelor of Economics *(Managerial Economics)* · 2016 – 2021
+**The Malay College Kuala Kangsar (MCKK)** — Business/Managerial Economics · 2009 – 2013
+
+---
+
+<!-- CERTIFICATIONS -->
+## 🎖️ Certifications
+
+<div align="center">
+
+<table>
 <tr>
-<td width="50%" valign="top">
-
-**🏛️ Education**
-
-**Universiti Kebangsaan Malaysia**
-Bachelor of Economics *(Managerial Economics)* · 2016 – 2021
-
-**The Malay College Kuala Kangsar (MCKK)**
-Business/Managerial Economics · 2009 – 2013
-
+<td align="center" width="180">
+<a href="https://www.credly.com/badges/59b2c6bb-76ca-4246-9b77-716fb0d90bb3/public_url">
+<img src="https://images.credly.com/size/680x680/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="110" alt="AWS Certified Data Engineer – Associate" />
+</a>
+<br/>
+<sub><b>AWS Certified</b><br/>Data Engineer – Associate</sub>
 </td>
-<td width="50%" valign="top">
-
-**📜 Certifications**
-
-![Azure](https://img.shields.io/badge/Azure_DP--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) Microsoft Azure Data Fundamentals
-![AWS](https://img.shields.io/badge/AWS_Data_Engineer-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) AWS Certified Data Engineer Associate
-![IBM](https://img.shields.io/badge/IBM_Data_Science-052FAD?style=flat-square&logo=ibm&logoColor=white) IBM Data Science Professional
-![PwC](https://img.shields.io/badge/PwC_Power_BI-D04A02?style=flat-square&logo=powerbi&logoColor=white) PwC Power BI Virtual Experience
-
-</td>
+<!-- Add more verified certs here as <td align="center" width="180">…</td> cells -->
 </tr>
 </table>
+
+<br/>
+
+**Also holds:** &nbsp;
+![Azure](https://img.shields.io/badge/Azure_DP--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM_Data_Science-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![PwC](https://img.shields.io/badge/PwC_Power_BI-D04A02?style=flat-square&logo=powerbi&logoColor=white)
+
+<sub><i>More verified Credly badges coming soon.</i></sub>
+
+</div>
 
 ---
 

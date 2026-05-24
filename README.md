@@ -114,13 +114,33 @@ fun_fact: "Proved that passion beats pedigree in tech"
 
 <br/><br/>
 
-**🎯 Currently Pursuing:** &nbsp;
+### 🎯 Currently Pursuing & Planned
+
+<sub><b>Tier 1 · Highest ROI</b></sub>
+
 ![Databricks DE Pro](https://img.shields.io/badge/Databricks_DE_Professional-In_Progress-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-In_Progress-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![dbt Analytics Eng](https://img.shields.io/badge/dbt_Analytics_Engineering-In_Progress-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-Planned-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-<sub><i>More verified Credly badges coming soon.</i></sub>
+<sub><b>Tier 2 · Sharpens Current Stack</b></sub>
+
+![CCDAK](https://img.shields.io/badge/Confluent_Kafka_CCDAK-Planned-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Airflow Developer](https://img.shields.io/badge/Astronomer_Airflow_Developer-Planned-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Terraform Associate](https://img.shields.io/badge/HashiCorp_Terraform_Associate-Planned-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![SnowPro Core](https://img.shields.io/badge/SnowPro_Core-Planned-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+
+<sub><b>Tier 3 · ML / AI Track</b></sub>
+
+![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-Planned-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS ML Engineer](https://img.shields.io/badge/AWS_ML_Engineer_Associate-Planned-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Databricks GenAI](https://img.shields.io/badge/Databricks_GenAI_Engineer-Future-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+<sub><b>Tier 4 · Multi-Cloud Breadth</b></sub>
+
+![GCP PDE](https://img.shields.io/badge/GCP_Professional_Data_Engineer-Future-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Microsoft DP-700](https://img.shields.io/badge/Microsoft_DP--700_Fabric-Future-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+<sub><i>More verified Credly badges coming soon — status updates as I progress.</i></sub>
 
 </div>
 

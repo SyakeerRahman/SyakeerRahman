@@ -112,6 +112,14 @@ fun_fact: "Proved that passion beats pedigree in tech"
 ![IBM](https://img.shields.io/badge/IBM_Data_Science-052FAD?style=flat-square&logo=ibm&logoColor=white)
 ![PwC](https://img.shields.io/badge/PwC_Power_BI-D04A02?style=flat-square&logo=powerbi&logoColor=white)
 
+<br/><br/>
+
+**🎯 Currently Pursuing:** &nbsp;
+![Databricks DE Pro](https://img.shields.io/badge/Databricks_DE_Professional-In_Progress-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-In_Progress-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![dbt Analytics Eng](https://img.shields.io/badge/dbt_Analytics_Engineering-In_Progress-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-Planned-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
 <sub><i>More verified Credly badges coming soon.</i></sub>
 
 </div>
